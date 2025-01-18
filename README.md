@@ -52,7 +52,6 @@ Berikut adalah dokumentasi yang dapat membantu Anda dalam pengembangan Minecraft
 
 ## 📞 **Koneksi Lain**
 - Telegram: [@mcdevindo](https://t.me/mcdevindo)
-- Resource Link: [Memeradef](https://bit.ly/memeradef)
 - WhatsApp Group: [MCBE Commander](https://chat.whatsapp.com/Br4Z5GDqArQACJIOUvVDQA)
 
 ---
