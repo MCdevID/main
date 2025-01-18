@@ -1,4 +1,4 @@
-# WELCOME TO MINECRAFT DEVELOPER
+# WELCOME TO MINECRAFT DEVELOPMENT
 
 Selamat datang di **MinecraftDevelopmentID (MCdevID)**, komunitas pengembang Minecraft yang didedikasikan untuk berbagi informasi, pengalaman, dan membantu satu sama lain dalam pengembangan Minecraft, terutama Bedrock Edition.
 
