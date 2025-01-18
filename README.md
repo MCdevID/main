@@ -35,7 +35,7 @@ Berikut adalah dokumentasi yang dapat membantu Anda dalam pengembangan Minecraft
 
 ## 🧠 **Pengetahuan Tambahan**
 - [Developer Roadmap](https://roadmap.sh/)
-- [Minecraft Development Gist](https://gist.github.com/tomasdev/92bde758ee8e65fa826717b24cfd0463)
+- [MC Allowed Emojis](https://gist.github.com/tomasdev/92bde758ee8e65fa826717b24cfd0463)
 
 ---
 
